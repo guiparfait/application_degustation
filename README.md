@@ -18,7 +18,6 @@ il est important de mettre en place deux éléments :
     ANZIAN Méa Yannick
     BLE Esolin Anderson 
     BERTE Katiene Ange Lydia
-    FOFANA Mohamed
     GUI Parfait Tresor
     SANOGO Kadidiatou
     SYL Coventon Kendy
